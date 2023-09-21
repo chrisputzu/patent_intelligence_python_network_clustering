@@ -2,11 +2,10 @@
 
 This is an academic project that involves the analysis of a dataset containing patents related to electric batteries in the automotive industry. The analysis is conducted by building a network using Python and consists of the following steps:
 
-Exploratory Analysis:
-
+## Exploratory Analysis
 Preliminary exploration and examination of the dataset.
-Creation of a Python Network and Cluster Analysis:
 
+## Creation of a Python Network and Cluster Analysis
 The dataset is used to construct a network using Python.
 Cluster analysis is performed to identify 5 clusters within the network.
 The Louvain algorithm is applied to determine the ultimate parent variable for each cluster.
