@@ -1,4 +1,4 @@
-# patent_intelligence_python_network_&_clustering
+# PATENT INTELLIGENCE PYTHON NETWORK & CLUSTERING
 
 This is an academic project that involves the analysis of a dataset containing patents related to electric batteries in the automotive industry. The analysis is conducted by building a network using Python and consists of the following steps:
 
